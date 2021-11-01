@@ -1,4 +1,4 @@
 {
     "test": true,
-    "isClientFFlagEnabled": false
+    "isClientFFlagEnabled": true
 }
